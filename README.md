@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexyYoung
-- 👀 I’m interested in Project management,Data analytics,and Agile,Product.
+- 👀 I’m interested in Data Project Management,Data analytics,and Agile,Product.
 - 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on Project Management.
+- 💞️ I’m looking to collaborate on Data Project Management.
 - 📫 How to reach me?by github homepage
 
 <!---
